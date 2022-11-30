@@ -16,7 +16,7 @@ console.log(mojeImePrezime);
 //Treći zadatak
 var prviBroj=7;
 var drugiBroj=17;
-console.log(drugiBroj/prviBroj);
+console.log(drugiBroj%prviBroj);
 
 //Četvrti zadatak
 var brojPolaznika=22;
